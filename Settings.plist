@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>About</key>
+	<dict>
+		<key>Help</key>
+		<string>0</string>
+	</dict>
+	<key>Account</key>
+	<dict>
+		<key>Logout</key>
+		<string>0</string>
+		<key>User name</key>
+		<string>lifelog.zepa@gmail.com</string>
+	</dict>
+	<key>Notification</key>
+	<dict>
+		<key>Notification time</key>
+		<dict>
+			<key>AM 00:00</key>
+			<string>0</string>
+			<key>AM 00:30</key>
+			<string>0</string>
+			<key>AM 01:00</key>
+			<string>0</string>
+			<key>AM 01:30</key>
+			<string>0</string>
+			<key>AM 02:00</key>
+			<string>0</string>
+			<key>AM 02:30</key>
+			<string>0</string>
+			<key>AM 03:00</key>
+			<string>0</string>
+			<key>AM 03:30</key>
+			<string>0</string>
+			<key>AM 04:00</key>
+			<string>0</string>
+			<key>AM 04:30</key>
+			<string>0</string>
+			<key>AM 05:00</key>
+			<string>0</string>
+			<key>AM 05:30</key>
+			<string>0</string>
+			<key>AM 06:00</key>
+			<string>0</string>
+			<key>AM 06:30</key>
+			<string>0</string>
+			<key>AM 07:00</key>
+			<string>0</string>
+			<key>AM 07:30</key>
+			<string>0</string>
+			<key>AM 08:00</key>
+			<string>0</string>
+			<key>AM 08:30</key>
+			<string>0</string>
+			<key>AM 09:00</key>
+			<string>0</string>
+			<key>AM 09:30</key>
+			<string>0</string>
+			<key>AM 10:00</key>
+			<string>0</string>
+			<key>AM 10:30</key>
+			<string>0</string>
+			<key>AM 11:00</key>
+			<string>0</string>
+			<key>AM 11:30</key>
+			<string>0</string>
+			<key>AM 12:00</key>
+			<string>0</string>
+			<key>AM 12:30</key>
+			<string>0</string>
+			<key>PM 13:00</key>
+			<string>0</string>
+			<key>PM 13:30</key>
+			<string>0</string>
+			<key>PM 14:00</key>
+			<string>0</string>
+			<key>PM 14:30</key>
+			<string>0</string>
+			<key>PM 15:00</key>
+			<string>0</string>
+			<key>PM 15:30</key>
+			<string>0</string>
+			<key>PM 16:00</key>
+			<string>0</string>
+			<key>PM 16:30</key>
+			<string>0</string>
+			<key>PM 17:00</key>
+			<string>0</string>
+			<key>PM 17:30</key>
+			<string>0</string>
+			<key>PM 18:00</key>
+			<string>0</string>
+			<key>PM 18:30</key>
+			<string>0</string>
+			<key>PM 19:00</key>
+			<string>0</string>
+			<key>PM 19:30</key>
+			<string>0</string>
+			<key>PM 20:00</key>
+			<string>0</string>
+			<key>PM 20:30</key>
+			<string>0</string>
+			<key>PM 21:00</key>
+			<string>0</string>
+			<key>PM 21:30</key>
+			<string>0</string>
+			<key>PM 22:00</key>
+			<string>0</string>
+			<key>PM 22:30</key>
+			<string>0</string>
+			<key>PM 23:00</key>
+			<string>0</string>
+			<key>PM 23:30</key>
+			<string>0</string>
+		</dict>
+		<key>Set Notification</key>
+		<string>0</string>
+	</dict>
+	<key>Rating</key>
+	<dict>
+		<key>Rating basis</key>
+		<dict>
+			<key>1,2,3,4,5 Type</key>
+			<string>1</string>
+			<key>20,40,60,80,100 Type</key>
+			<string>0</string>
+			<key>A,B,C,D,F Type</key>
+			<string>0</string>
+		</dict>
+	</dict>
+	<key>Sync</key>
+	<dict>
+		<key>Last sync time</key>
+		<string>2011.04.01 12:05</string>
+		<key>Sync now</key>
+		<string>0</string>
+		<key>Sync on startup</key>
+		<string>1</string>
+	</dict>
+	<key>View</key>
+	<dict>
+		<key>Time span</key>
+		<dict>
+			<key>00:00 ~ 24:00</key>
+			<string>0</string>
+			<key>09:00 ~ 18:00</key>
+			<string>1</string>
+			<key>10:00 ~ 19:00</key>
+			<string>0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

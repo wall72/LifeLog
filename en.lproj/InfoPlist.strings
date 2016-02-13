@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  LifeLog
+
+  Created by cliff on 11. 4. 29..
+  Copyright 2011 teamzepa. All rights reserved.
+*/
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Zepa LifeLog";
